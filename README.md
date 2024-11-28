@@ -1,2 +1,1 @@
-# Algorithm_Exploration
-Less is More
+# Algorithm_Exploration: Less is More.
