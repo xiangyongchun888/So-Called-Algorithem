@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-# ALGORITHEM***LESS IS MORE
+# So-Called-ALGORITHEM***LESS IS MORE
 
 ### Start with dynamic programming-Branch1... HAVE FUN
 =======
-# Algorithm Playground***LESS IS MORE
+# So-Called-ALGORITHEM***LESS IS MORE
 
-Welcome to the Algorithm Playground! This repository is dedicated to exploring yongchun's interested algorithms.
+Welcome to the So-Called-ALGORITHEM! This repository is dedicated to exploring yongchun's interested algorithms.
 
 ## Table of Contents
 
